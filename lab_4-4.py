@@ -1,6 +1,5 @@
 #Creator JS 10/14/2022
 from gettext import find
-from operator import index
 
 #Find the first occurance of t 
 word ="flibbertigibbet"
